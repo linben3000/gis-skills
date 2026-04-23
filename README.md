@@ -46,3 +46,17 @@ https://github.com/znlgis/GeoPipeAgent
 
 本 Skill 为 WorkBuddy/Claude 提供 SuperMap iDesktopX 自动化能力，涵盖数据管理、空间分析、地图制图、三维分析等核心 GIS 功能。
 https://github.com/kruie/supermap-idesktop-skill
+
+
+opengis-skills
+https://github.com/znlgis/opengis-skills
+
+
+基于 SuperMap iServer REST API 的 GIS 服务器管理自动化 Skill。
+https://github.com/kruie/supermap-iserver-skill
+
+A skill for AI agents to build, debug, and optimize Mapbox GL JS type: 'custom' layers using raw WebGL.
+https://github.com/xiaxiangfeng/mapboxgl-custom-webgl-layer
+
+一个基于 Claude Skill 框架构建的专业天地图（Tianditu）开发工具包。本 Skill 旨在帮助开发者和 AI Agent 快速集成天地图的 GIS 能力，涵盖了从基础地图加载到高级 3D 可视化的全套解决方案。
+https://github.com/fjdsjd/TianDiTu-Skill
